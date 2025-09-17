@@ -14,7 +14,7 @@
 - 👨‍💻 I'm **Dekel** — Computer.
 - 🔭 Im currently buildind microservices/.NET course platfomr, cloud on AWS, and automation projects.
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/dekel-rafian-software-developer/)**  
-- 📄 Check my **[CV](/)** and **[Portfolio](https://www.linkedin.com/in/dekel-rafian-software-developer/overlay/1753972086005/single-media-viewer/?profileId=ACoAAFPtyuoBL82msvw4qP3u0BFUnHO9kXd9Dn0)**
+- 📄 Check my **[CV](/)****
 
 
 ## 🧠 Tech Stack
