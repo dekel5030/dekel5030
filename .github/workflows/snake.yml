@@ -2,37 +2,30 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:  
+    - cron: "0 0 * * *"   
+  workflow_dispatch:
 
 permissions:
-  contents: write  
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: dekel5030
           outputs: dist/snake.svg
 
-      - name: Upload Snake Artifact
-        uses: actions/upload-artifact@v4
+      - name: Publish SVG to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: snake-artifact
-          path: dist/snake.svg
-
-      - name: Commit and Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: "chore: update snake animation"
-          add: "dist/snake.svg"
-          branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          destination_dir: .
+          commit_message: "chore: update snake"
