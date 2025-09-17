@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule: 
+    - cron: "0 */12 * * *"
+  workflow_dispatch: 
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dekel5030
+          outputs: |
+            dist/snake.svg
+
+      - name: Push Snake to output branch
+        run: |
+          mkdir -p output
+          cp dist/snake.svg output/snake.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "update snake" || echo "no changes"
+          git push
