@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/dekel-rafian-software-developer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="[https://YOUR-CV-LINK.pdf](https://www.linkedin.com/in/dekel-rafian-software-developer/overlay/1753972086005/single-media-viewer/?profileId=ACoAAFPtyuoBL82msvw4qP3u0BFUnHO9kXd9Dn0)" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
