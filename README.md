@@ -18,15 +18,15 @@
 
 <h1 align="center">hey there 👋</h1>
 
-- 👨‍💻 I'm **Dekel** — Computer.
-- 🔭 Im currently buildind microservices/.NET course platfomr, cloud on AWS, and automation projects.
+- 👨‍💻 I'm **Dekel** — Computer Science graduate & software developer.  
+- 🔭 Currently developing a full **course platform** project using .NET microservices.
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/dekel-rafian-software-developer/)**  
-- 📄 Check my **[CV](https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf)**
+- 📄 Check my **[CV](https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf)**  
 
 
 ## 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,postgres,rabbitmq,docker,kubernetes,react,ts,nodejs,redis,kafka,git,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,postgres,rabbitmq,docker,kubernetes,react,ts,nodejs,kafka,git,linux" />
 </p>
 
 ---
@@ -43,13 +43,6 @@
 ---
 
 ## 🐍 Snake – Contributions
-<!-- הקובץ snake.svg ייווצר אוטומטית ע"י ה-Action שבסעיף 4 -->
 <p>
   <img src="https://raw.githubusercontent.com/dekel5030/dekel5030/output/snake.svg" alt="snake animation" />
 </p>
-
-<!-- אפשר לקפל חלקים כבדים -->
-<details>
-  <summary>🛠️ Tools I use</summary>
-  VS Code · Postman · k8s  · more…
-</details>
