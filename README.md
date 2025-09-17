@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
 </p>
-  <img src="https://komarev.com/ghpvc/?username=dekel5030&label=Profile%20views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dekel5030&label=Profile%20views&style=for-the-badge" align="center"/>
 
 <h1 align="center">hey there 👋</h1>
 
