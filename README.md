@@ -5,7 +5,7 @@
   </a>
 
   <!-- CV -->
-  <a href="https://www.linkedin.com/in/dekel-rafian-software-developer/overlay/1753972086005/single-media-viewer/?profileId=ACoAAFPtyuoBL82msvw4qP3u0BFUnHO9kXd9Dn0" target="_blank">
+  <a href="https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
 </p>
