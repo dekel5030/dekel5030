@@ -6,8 +6,8 @@
   <a href="[[https://YOUR-CV-LINK.pdf](https://www.linkedin.com/in/dekel-rafian-software-developer/overlay/1753972086005/single-media-viewer/?profileId=ACoAAFPtyuoBL82msvw4qP3u0BFUnHO9kXd9Dn0)](https://www.linkedin.com/in/dekel-rafian-software-developer/overlay/1753972086005/single-media-viewer/?profileId=ACoAAFPtyuoBL82msvw4qP3u0BFUnHO9kXd9Dn0)" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dekel5030&label=Profile%20views&style=for-the-badge" />
 </p>
+  <img src="https://komarev.com/ghpvc/?username=dekel5030&label=Profile%20views&style=for-the-badge" />
 
 <h1 align="center">hey there 👋</h1>
 
