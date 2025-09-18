@@ -36,14 +36,16 @@
       <b>Frameworks & Libraries</b><br><br>
       <img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
     </td>
+    <td align="center">
+      **Databases & Messaging**  
+      <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
+    </td>
+    <td align="center">
+      **Cloud & DevOps**  
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
+    </td>
   </tr>
 </table>
-
-**Databases & Messaging**  
-<img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
-
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
 
 ---
 
