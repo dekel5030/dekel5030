@@ -8,13 +8,13 @@
   <a href="https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
-</p>
-
-<!-- Profile views -->
-<p align="center">
+  
+  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=dekel5030&label=Profile%20views&style=for-the-badge" />
 </p>
 
+<p align="center">
+</p>
 
 <h1 align="center">hey there 👋</h1>
 
