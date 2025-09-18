@@ -26,11 +26,16 @@
 
 ## ⚙️ Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c" />
-
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
+<p align="center">
+  <div>
+    **Languages**  
+    <img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c" />
+  </div>
+  <div>
+    **Frameworks & Libraries**  
+    <img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
+  </div>
+</p>
 
 **Databases & Messaging**  
 <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
