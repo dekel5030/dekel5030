@@ -50,10 +50,18 @@
 ---
 
 ## 🔥 My Stats
-<p align="center"> 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=default&count_private=true" /> 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact" /> 
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&count_private=true&theme=dark&cache_seconds=86400&token=YOUR_TOKEN" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&count_private=true&theme=default&cache_seconds=86400&token=YOUR_TOKEN" 
+      media="(prefers-color-scheme: light)" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&count_private=true&theme=default&cache_seconds=86400&token=YOUR_TOKEN" />
+  </picture>
 </p>
+
 
 ---
 
