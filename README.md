@@ -27,14 +27,14 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <div>
+  <p>
     **Languages**  
     <img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c" />
-  </div>
-  <div>
+  </p>
+  <p>
     **Frameworks & Libraries**  
     <img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
-  </div>
+  </p>
 </p>
 
 **Databases & Messaging**  
