@@ -24,10 +24,19 @@
 - 📄 Check my **[CV](https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf)**  
 
 
-## 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,dotnet,cs,postgres,rabbitmq,docker,kubernetes,react,ts,nodejs,kafka,git,linux" />
-</p>
+## ⚙️ Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=cs,python,javascript,c++,c" />
+
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs" />
+
+**Databases & Messaging**  
+<img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
 
 ---
 
