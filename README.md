@@ -37,11 +37,11 @@
       <img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
     </td>
     <td align="center">
-      **Databases & Messaging**  
+      <b>Databases & Messaging</b><br><br>
       <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
     </td>
     <td align="center">
-      **Cloud & DevOps**  
+      <b>Cloud & DevOps</b><br><br>
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
     </td>
   </tr>
