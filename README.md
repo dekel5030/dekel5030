@@ -37,6 +37,7 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=dekel5030" />
 </p>
 <p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=default&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact" />
 </p>
 
