@@ -27,7 +27,7 @@
 ## ⚙️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=cs,python,javascript,c++,c" />
+<img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c" />
 
 **Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs" />
