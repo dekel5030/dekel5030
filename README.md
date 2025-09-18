@@ -51,9 +51,27 @@
 
 ## 🔥 My Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=dark&count_private=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=default&count_private=true" 
+      media="(prefers-color-scheme: light)" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=dekel5030&show_icons=true&theme=default&count_private=true" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact&theme=dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light)" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekel5030&layout=compact&theme=default" />
+  </picture>
 </p>
+
 
 ---
 
