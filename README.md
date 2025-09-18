@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=cs,python,javascript,cpp,c" />
 
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet,django,react,ts,nodejs" />
 
 **Databases & Messaging**  
 <img src="https://skillicons.dev/icons?i=postgres,rabbitmq,kafka" />
