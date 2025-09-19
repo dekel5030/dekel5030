@@ -18,7 +18,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-- 👨‍💻 I'm **Dekel** — Computer Science graduate & Software Developer.  
+- 👨‍💻 I'm **Dekel** - Computer Science graduate & Software Developer.  
 - 🔭 I’m currently working on a **course platform** project using .NET microservices.
 - 📬 Reach me on **[LinkedIn](https://www.linkedin.com/in/dekel-rafian-software-developer/)**  
 - 📄 Check my **[CV](https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf)**  
