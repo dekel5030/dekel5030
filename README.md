@@ -5,7 +5,7 @@
   </a>
 
   <!-- CV -->
-  <a href="https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel_Rafian_CV.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/dekel5030/dekel5030/main/Dekel-Rafian-CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge" />
   </a>
   
