@@ -51,8 +51,8 @@
 
 ## 🔥 My Stats
 <p align="center"> 
-  <img height="160" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
-  <img height="320" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
+  <img  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
+  <img  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
 </p>
 
 ---
