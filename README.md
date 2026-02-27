@@ -52,7 +52,7 @@
 ## 🔥 My Stats
 <p align="center"> 
   <img src="./profile/stats.svg" />
-  <img  src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=dekel5030&cache_seconds=86400&theme=github_dark" /> 
 </p>
 
 ---
